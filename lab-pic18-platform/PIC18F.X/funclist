@@ -1,0 +1,10 @@
+_LCDClear: CODE, 65320 0 8
+_lcd_cmd: CODE, 65386 0 32
+_Delay1KTCYx: CODE, 65336 0 16
+_main: CODE, 65368 0 18
+_LCDInit: CODE, 65418 0 118
+__initialization: CODE, 65314 0 0
+_initOscillator: CODE, 65328 0 8
+_Delay10TCYx: CODE, 65352 0 16
+_initIO: CODE, 65308 0 6
+Total: 222
